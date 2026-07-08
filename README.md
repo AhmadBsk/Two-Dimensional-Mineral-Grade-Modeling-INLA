@@ -11,7 +11,6 @@ This repository contains the R code for the paper:
 
 ## 📌 Abstract
 
-The complexity of tectonic and geological changes, combined with limited observed data in mining areas, poses significant challenges for mineral reserve modeling and estimation. Traditional statistical methods often struggle with highly skewed data and sparse observations, leading to inaccurate variogram estimation. To address these limitations, this study employs a Model-based Geostatistics approach using an approximate Bayesian method – the Integrated Nested Laplace Approximation (INLA) – for two-dimensional mineral grade modeling. The Stochastic Partial Differential Equation (SPDE) approach is integrated with INLA to enhance computational efficiency in analyzing dense geostatistical data. We apply the INLA+SPDE method to lithogeochemical data from the Korour-2 porphyry copper deposit in Kerman, Iran, focusing on copper grade estimation at the mineral range level. The performance of this method is compared with universal Kriging, a widely used geostatistical technique. Our results demonstrate that the INLA+SPDE approach not only improves computational speed but also provides more accurate identification of mineralization points and better uncertainty quantification compared to traditional Kriging. This study highlights the potential of Bayesian Geostatistics as a robust alternative for mineral resource estimation in complex geological settings.
 
 ---
 
